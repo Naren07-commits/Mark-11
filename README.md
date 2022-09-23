@@ -1,2 +1,3 @@
-# Mark-11
- Build an app to see if your buirthday is lucky
+# Is your Birth-Day Lucky?
+
+Build an app to see if your birthday is lucky
