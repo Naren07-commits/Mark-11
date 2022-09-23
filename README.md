@@ -1,3 +1,3 @@
 # Is your Birth-Day Lucky?
 
-Build an app to see if your birthday is lucky
+Build an website to see if your birthday is lucky
